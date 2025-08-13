@@ -44,7 +44,7 @@ ElevenLabs API
 
 🚀 Setup & Installation
 Clone the Repository
-git clone https://github.com/Keamo0713/LumiReads.git
+git clone https://github.com/Keamo0713/BookAndDocSummerizerClientRepo.git
 cd LumiReads/server
 
 Create a Virtual Environment
@@ -113,4 +113,4 @@ Add .env to your .gitignore file to prevent it from being pushed.
 Contributions are welcome! Please follow the steps in the main README.md for the project.
 
 📞 Contact
-Project Link: https://github.com/Keamo0713/LumiReads
+Project Link: https://github.com/Keamo0713/BookAndDocSummerizerClientRepo
